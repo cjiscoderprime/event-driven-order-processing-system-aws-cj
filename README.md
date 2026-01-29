@@ -42,8 +42,7 @@ Went into DynamoDB orders, explore table items and checked the orders were recei
 
 
 
-Invoke URL generate through API Gateway - https://szmhnuemfe.execute-api.us-east-2.amazonaws.com/prod
-
+Invoke URL generate through API Gateway
 
 
 
@@ -380,4 +379,5 @@ For other orders, it sets status = COMPLETED and adds completedAt.
 
 
  
+
 
